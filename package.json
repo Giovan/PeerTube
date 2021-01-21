@@ -150,7 +150,7 @@
     "sequelize-typescript": "^1.0.0-beta.4",
     "sharp": "^0.23.3",
     "sitemap": "^5.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "srt-to-vtt": "^1.1.2",
     "tsconfig-paths": "^3.9.0",
     "useragent": "^2.3.0",
